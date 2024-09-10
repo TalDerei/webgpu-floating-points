@@ -29,7 +29,7 @@ git clone https://github.com/demox-labs/webgpu-msm
 ### 2) Copy the data
 
 ```bash
-cp -r webgpu-msm/public/test-data webgpu-msm-twisted-edwards/public
+cp -r webgpu-msm/public webgpu-msm-twisted-edwards/public
 ```
 
 ### 3) Install dependencies
